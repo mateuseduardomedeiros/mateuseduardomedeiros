@@ -29,13 +29,13 @@
 
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
 ![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=React&logoColor=2b2b2b)
-![React Native Badge](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=Expo&logoColor=white)
+![Expo Badge](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=Expo&logoColor=white)
 
 <h2>:hearts: Ambiente de desenvolvimento:</h2>
 
-![Dell Badge](https://img.shields.io/badge/-Inspiron%205567-007DB8?style=flat-square&logo=Dell&logoColor=white)
-![Intel Badge](https://img.shields.io/badge/-Core%20i7%207500U-0071C5?style=flat-square&logo=Intel&logoColor=white)
-![AMD Badge](https://img.shields.io/badge/-R7%20M445-ED1C24?style=flat-square&logo=AMD&logoColor=white)
+![Dell Badge](https://img.shields.io/badge/-Gamer%20G3%203500-007DB8?style=flat-square&logo=Dell&logoColor=white)
+![Intel Badge](https://img.shields.io/badge/-Core%20i5%2010300H-c0c0c0?style=flat-square&logo=Intel&logoColor=black)
+![NVIDIA Badge](https://img.shields.io/badge/-GeForce%20GTX™%201650%204GB-000000?style=flat-square&logo=NVIDIA&logoColor=green)
 
 <p></p>
 
