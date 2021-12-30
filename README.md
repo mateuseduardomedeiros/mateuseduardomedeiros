@@ -19,12 +19,6 @@
 
 <h2>:hearts: Ambiente de desenvolvimento:</h2>
 
-![Dell Badge](https://img.shields.io/badge/-Gamer%20G3%203500-007DB8?style=flat-square&logo=Dell&logoColor=white)
-![Intel Badge](https://img.shields.io/badge/-Core%20i5%2010300H-c0c0c0?style=flat-square&logo=Intel&logoColor=black)
-![NVIDIA Badge](https://img.shields.io/badge/-GeForce%20GTX™%201650%204GB-000000?style=flat-square&logo=NVIDIA&logoColor=green)
-
-<p></p>
-
 ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu%2020.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Prettier Badge](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=2b2b2b)
