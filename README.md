@@ -17,20 +17,6 @@
 ![Vuetify Badge](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
 ![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00897B?style=flat-square&logo=Nuxt.js&logoColor=white)
 
-<h2>:computer: Conheço um pouco de:</h2>
-
-![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![.Net Badge](https://img.shields.io/badge/-C%23-5C2D91?style=flat-square&logo=.Net&logoColor=white)
-![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
-
-<h2>:books: Estudando:</h2>
-
-![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
-![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=React&logoColor=2b2b2b)
-![Expo Badge](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=Expo&logoColor=white)
-
 <h2>:hearts: Ambiente de desenvolvimento:</h2>
 
 ![Dell Badge](https://img.shields.io/badge/-Gamer%20G3%203500-007DB8?style=flat-square&logo=Dell&logoColor=white)
