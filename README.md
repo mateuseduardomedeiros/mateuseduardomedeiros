@@ -32,10 +32,6 @@
 ![Insomnia Badge](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
 ![Gitkraken Badge](https://img.shields.io/badge/-Gitkraken-179287?style=flat-square&logo=Gitkraken&logoColor=white)
 
-<p></p>
-
-![Windows Badge](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio%202019%20Enterprise-5C2D91?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 <h2>:mailbox_with_mail: Fale comigo:</h2>
 
