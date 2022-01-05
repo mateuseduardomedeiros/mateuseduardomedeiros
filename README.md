@@ -1,7 +1,7 @@
 <h1>Bem vindo! Eu sou Eduardo 👋</h1>
 
 <p>Tenho 23 anos, sou desenvolvedor full stack e entusiasta em segurança da informação! :smile:</p>
-<p>Técnico em informática e aluno do curso de Sistemas para Internet (IFRN)</p>
+<p>Técnico em informática (IFRN) e Graduado em Sistemas para Internet (IFRN)</p>
 
 <h2>:computer: Tecnologias que uso:</h2>
 
