@@ -9,6 +9,7 @@
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=2b2b2b)
+![Typescript Badge](https://img.shields.io/badge/-Typescript-0076C6?style=flat-square&logo=Typescript&logoColor=ffffff)
 ![Node.js Badge](https://img.shields.io/badge/-Noje.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
