@@ -7,7 +7,7 @@
 
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/-Sass-bf4080?style=flat-square&logo=Sass&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=2b2b2b)
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-0076C6?style=flat-square&logo=Typescript&logoColor=ffffff)
 ![Node.js Badge](https://img.shields.io/badge/-Noje.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -16,11 +16,12 @@
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Vuetify Badge](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
+![Tailwind Badge](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
 ![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00897B?style=flat-square&logo=Nuxt.js&logoColor=white)
 
 <h2>:hearts: Ambiente de desenvolvimento:</h2>
 
-![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu%2020.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu%20-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Prettier Badge](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=2b2b2b)
 ![ESLint Badge](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
