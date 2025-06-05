@@ -34,4 +34,4 @@
 [![Facebook Badge](https://img.shields.io/badge/-Eduardo%20Medeiros-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mateuseduardo.medeiros/)](https://www.facebook.com/mateuseduardo.medeiros/)
 [![Instagram Badge](https://img.shields.io/badge/-medeiroseduardo2-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/medeiroseduardo2/)](https://www.instagram.com/medeiroseduardo2/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardomedeirosrn2-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardomedeirosrn2@gmail.com)](mailto:eduardomedeirosrn2@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-medeiroseduardo2-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/medeiroseduardo2)](https://www.linkedin.com/in/medeiroseduardo2)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-medeiroseduardo2-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/medeiroseduardo2)](https://www.linkedin.com/in/medeiroseduardo2)
