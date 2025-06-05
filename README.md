@@ -17,7 +17,7 @@
 ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Vuetify Badge](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
 ![Tailwind Badge](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
-![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00897B?style=flat-square&logo=Nuxt.js&logoColor=white)
+![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00897B?style=flat-square&logo=Nuxt&logoColor=white)
 
 <h2>:hearts: Ambiente de desenvolvimento:</h2>
 
