@@ -19,15 +19,6 @@
 ![Tailwind Badge](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=TailwindCss&logoColor=white)
 ![Nuxt.js Badge](https://img.shields.io/badge/-Nuxt.js-00897B?style=flat-square&logo=Nuxt&logoColor=white)
 
-<h2>:hearts: Ambiente de desenvolvimento:</h2>
-
-![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu%20-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![VSCode Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![Prettier Badge](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=2b2b2b)
-![ESLint Badge](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
-![Insomnia Badge](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
-![Gitkraken Badge](https://img.shields.io/badge/-Gitkraken-179287?style=flat-square&logo=Gitkraken&logoColor=white)
-
 
 <h2>:mailbox_with_mail: Fale comigo:</h2>
 
